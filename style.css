@@ -1,3 +1,8 @@
-body
-h1 {background-color: beige;font: family 18px; ;}
-    
+body{
+    background-color: azure;
+    }
+    h1{
+        color: rgb(29, 24, 24)
+        font-family:beige
+        background:blanchedalmond
+        }
